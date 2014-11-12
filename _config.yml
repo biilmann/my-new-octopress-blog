@@ -30,8 +30,8 @@ owner:
   bio: "Describe your self."
   email:
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: netlify
+  facebook: netlify
   google:
     plus: #username
     analytics:
@@ -39,7 +39,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: netlify
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
